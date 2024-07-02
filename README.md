@@ -4,7 +4,7 @@ This is a project made under SIP project
 
 ### Live Website: yet to publish
 
-### Vercel Link: yet to publish
+### Vercel Link: https://expense-tracker-app-three-beryl.vercel.app/
 
 ## Project Description:
 
