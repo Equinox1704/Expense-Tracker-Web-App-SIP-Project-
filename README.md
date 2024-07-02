@@ -2,7 +2,7 @@ This is a project made under SIP project
 
 # Expense Management System using MERN Stack
 
-### Live Website: https://main.d1sj7cd70hlter.amplifyapp.com/
+### Live Website: yet to publish
 
 ### Vercel Link: https://expense-tracker-app-three-beryl.vercel.app/
 
