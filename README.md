@@ -69,7 +69,7 @@ Set up Continuous Integration and Continuous Deployment (CI/CD) pipelines for au
 Run Locally
 Clone the project
 
-  git clone https://github.com/Equinox1704/Expense-Tracker-Web-App-SIP-Project
+  git clone https://github.com/Equinox1704/Expense-Tracker-Web-App-SIP-Project-
 Go to the project directory
 
   cd Expense-Tracker-App
